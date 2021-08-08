@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm utzcoz, an Android system developer.
+I'm utzcoz, a software engineer who focus on AOSP and its related areas.
 
 I'm currently working on [Boringdroid](https://github.com/boringdroid), [BlissOS](https://www.blissos.org/) and [MaruOS](https://github.com/maruos/).
 
-I also have an interest in Android test, including app test and system test.
+I also spend many time on [Robolectric](https://github.com/robolectric/robolectric) as a community collaborator.
 
 I'm open for remote jobs globally, and local jobs at Beijing, China.
 
