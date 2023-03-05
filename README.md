@@ -6,6 +6,8 @@ I'm currently working for [Robolectric](https://github.com/robolectric/robolectr
 
 Manual updater for the latest Robolectric version.
 
+One of Google Open Source Peer Bonus Winner.
+
 I'm open for remote full-time jobs globally, and local full-time jobs at Beijing, China.
 
 Disclaimer: All work is personal work on personal free time.
