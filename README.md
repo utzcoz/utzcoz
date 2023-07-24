@@ -11,5 +11,3 @@ One of Google Open Source Peer Bonus Winner.
 I'm open for remote full-time jobs globally, and local full-time jobs at Beijing, China.
 
 Disclaimer: All work is personal work on personal free time.
-
-![utzcoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=utzcoz&show_icons=true&theme=transparent)
