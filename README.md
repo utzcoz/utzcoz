@@ -8,4 +8,6 @@ when I have free time.
 
 One of Google Open Source Peer Bonus Winner.
 
+Open for full-remote job.
+
 Disclaimer: All work is personal work on personal free time.
